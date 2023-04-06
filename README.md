@@ -2,7 +2,9 @@
 
 This repo contains code for running PRI-T, an unsupervised cursor BCI retraining procedure described in the paper ["Long-term unsupervised recalibration of cursor BCIs"](https://www.biorxiv.org/content/10.1101/2023.02.03.527022v1).
 
-![alt text](/resources/PRIT_example.gif "Logo Title Text 1")
+#![alt text](/resources/PRIT_example.gif "Logo Title Text 1")
+
+<img src="/resources/PRIT_example.gif" width=50% height=50%>
 
 ## Environment Setup
 
