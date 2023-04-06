@@ -26,8 +26,8 @@ from PRIT.prit import HMMRecalibration
 gridSize  = 20      # number of rows/columns when discretizing screen
 stayProb  = 0.999  # probability that target just stays where it is at any given timestep
 vmKappa   = 2       # precision parameter for the von mises distribution.
-logistic_inflection = 0.
-logistic_exp = 32.
+logistic_inflection = 0.  # controls von mises variance fine-tuning
+logistic_exp = 32.        # controls von mises variance fine-tuning
 
 #------------------
 
